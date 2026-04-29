@@ -5,11 +5,11 @@
 // excluded-positions以外のキーを押すとAMLが解除される。positionsは、torabo_tsuki_lp_layout.dtsiのposition_mapと同じ順番で指定する必要がある。
 &zip_temp_layer {
     excluded-positions = <
-        6 // U
-        7 // I
-        16 // J
-        17 // K
-        28 // M
+        19 // U
+        20 // I
+        33 // J
+        34 // K
+        47 // M
     >;
 };
 
